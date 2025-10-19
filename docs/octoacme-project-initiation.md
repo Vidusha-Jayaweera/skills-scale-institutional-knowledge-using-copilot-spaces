@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Persona assignment checklist (docs/octoacme-persona-assignment-checklist.md)
 
 ## Project One-pager Template
 - Project name:
@@ -27,7 +28,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles (use persona checklist: docs/octoacme-persona-assignment-checklist.md):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead

@@ -30,6 +30,23 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Pull items that meet DoD and have clear acceptance criteria
 - Ensure team capacity is respected
 
+## Role Handoffs & RACI
+
+Clear role ownership and handoffs are critical for smooth execution. Document role assignments and accountability using the **[Persona Assignment Checklist](./octoacme-persona-assignment-checklist.md)**.
+
+### Key Activities
+- Complete the persona assignment checklist during planning kickoff
+- Define RACI (Responsible, Accountable, Consulted, Informed) for all major deliverables
+- Document handoff points between roles (e.g., Design → Development → QA → DevOps)
+- Ensure each team member understands their responsibilities and who they hand off to
+- Review the [Roles & Personas](./octoacme-roles-and-personas.md) guide for role definitions and collaboration patterns
+
+### Best Practices
+- Make handoffs explicit with clear triggers and acceptance criteria
+- Identify and document cross-team dependencies early
+- Assign backup owners for critical roles
+- Review role assignments if scope or team composition changes
+
 ## Risk & Dependency Management
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
@@ -41,3 +58,4 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Role assignments & RACI confirmed (persona assignment checklist completed)
